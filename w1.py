@@ -5,7 +5,7 @@ print (hello())
 
 #task 2 
 def greet(name):
-    return "Hello, "+name+"!"
+    return f"Hello, {name}!"
 print (greet("Name"))
 
 #task 3 
