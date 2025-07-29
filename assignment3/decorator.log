@@ -1,0 +1,15 @@
+funiction: hello
+positional parameters: none
+keyword parameters: none
+return: None
+
+funiction: var_num
+positional parameters: (1, 2, 3, 4)
+keyword parameters: none
+return: True
+
+funiction: no_arg
+positional parameters: none
+keyword parameters: {'a': 5, 'b': 15}
+return: <function logger_decorator at 0x000002592F23A520>
+
