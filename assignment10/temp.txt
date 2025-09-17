@@ -1,0 +1,4 @@
+CONTAINER = "li.row.cp-search-result-item"
+TITLE = "span.title-content"
+AUTHOR = "a.author-link"
+PUBLISHED_YEAR = "span.display-info-primary"

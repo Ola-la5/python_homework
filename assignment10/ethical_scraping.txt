@@ -1,0 +1,14 @@
+Which sections of the website are restricted for crawling?
+Wikipedia blocks crawlers from sensitive and administrative pages, like deletion discussions, spam blacklists, abuse reports, copyright investigations, and arbitration requests.
+User account pages (username changes, protected titles, adminship/bureaucratship requests) are also off-limits.
+Noticeboards, sandboxes, internal API pages (/w/, /api/), trap pages, and /wiki/Special: pages are restricted too.
+Regular encyclopedia articles are allowed.
+
+Are there specific rules for certain user agents?
+Yes. Some bots, like MJ12bot and Mediapartners-Google*, are completely blocked. 
+Many site-copying or fast/misbehaving bots are also disallowed. 
+All other bots (*) can’t access internal wiki pages, API pages, trap pages, or special pages.
+
+Reflect on why websites use robots.txt
+The purpose of a robots.txt file is to guide web crawlers on which parts of a website they can access, helping prevent server overload.
+It also protects sensitive or private content, promoting ethical scraping and reducing the risk of legal or privacy issues.

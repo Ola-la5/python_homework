@@ -1,0 +1,2 @@
+Web scraping was new to me, so I spent some extra time researching best practices to achieve accurate and efficient results.
+Overall, I didn’t face major challenges while completing this assignment, thanks to the clear instructions and helpful examples provided.
